@@ -6,27 +6,20 @@
 
 
 
-```bash
-git clone https://github.com/ghas-bootcamp/ghas-bootcamp.git
-cd ghas-bootcamp
-git remote set-url origin git@github.com:{org-or-username}/{repo-name}.git
-```
-
 ## 🏫 Agenda
 
 We will go over the following topics:
 
-<details>
-<summary>Day one </summary>
 
-#### Day one learning
+
+#### 
 - [x] Comprehensive overview of GHAS
 - [x] Securing your supply chain with dependency management
 - [x] Secret scanning
 - [x] Rolling out GHAS in your organization
 - [x] Q&A
 
-#### Day one: Dependabot and Secret scanning exercises
+####  Dependabot and Secret scanning
 ##### Dependabot: [link](exercises/lab%201%20-%20dependabot.md)
 - [x] Enabling Dependabot alerts
 - [x] Reviewing the dependency graph
